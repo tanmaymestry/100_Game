@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-## import random
+import random
 
 # Function to calculate the computer's move
 def computer_move(current_total, player_first, first_move=False):
