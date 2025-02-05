@@ -14,4 +14,4 @@ Think ahead—every move could be the difference between victory and defeat!
 ✅ Move History Tracking – Keep tabs on every move, study patterns, and refine your strategy.
 ✅ Fun & Engaging – Sharpen your math skills while enjoying an intense mental battle!
 
-### Do you have what it takes to outsmart the computer and claim victory? Jump in and put your strategy to the test!
+## Do you have what it takes to outsmart the computer and claim victory? Jump in and put your strategy to the test!
