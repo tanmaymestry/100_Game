@@ -1,18 +1,17 @@
-# 100_Game
-The 100 Game is a strategic and engaging number game where the objective is to be the player who reaches exactly 100.
-Players take turns adding a number between 1 and 10 to a running total, starting from zero.
-The player who makes the total exactly 100 wins the game.
+### 🎯 The 100 Game – A Battle of Strategy & Numbers!
+Can you be the mastermind who lands exactly on 100?
 
-Game Rules:
+The 100 Game is a thrilling test of strategy, logic, and quick thinking! The goal? Be the player who makes the total reach exactly 100. But beware—every move counts, and the computer is ready to challenge you with smart, calculated moves!
 
-The game begins with a total of 0.
-Players take turns to add a number between 1 and 10 to the current total.
-The player who makes the total "exactly the number 100" wins the game.
-Features:
+### 🕹️ How to Play
+Start with zero and take turns adding a number between 1 and 10 to the total.
+The first player to reach exactly 100 wins.
+Think ahead—every move could be the difference between victory and defeat!
 
-Interactive Gameplay: Players choose whether to play first or second.
-Smart Opponent: The computer does strategic moves to challenge the player.
-Move History: Track each move made by both the player and the computer.
-This game offers a fun way to practice basic arithmetic and strategic thinking. Whether you prefer to play first or let the computer make the initial move, you'll find yourself engaged by the challenge of reaching exactly 100.
+### 🚀 Game Features
+✅ Strategic Gameplay – Will you play first or let the computer make the opening move?
+✅ Smart AI Opponent – Face off against a calculated, strategic computer challenger.
+✅ Move History Tracking – Keep tabs on every move, study patterns, and refine your strategy.
+✅ Fun & Engaging – Sharpen your math skills while enjoying an intense mental battle!
 
-Can you outsmart the computer and claim victory?
+### Do you have what it takes to outsmart the computer and claim victory? Jump in and put your strategy to the test!
